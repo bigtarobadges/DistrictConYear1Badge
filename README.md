@@ -1,4 +1,4 @@
-# DistrictCon Badge - Public Firmware Framework
+# DistrictCon Year 1 Badge - Hackable Firmware
 
 A minimal, hackable firmware framework for the DistrictCon 2026 badge hardware. This provides basic access to all hardware components.
 
@@ -60,6 +60,7 @@ If there is a different firmware, or no firmware on the badge, then:
 3. Release DFU (badge appears as USB drive)
 
 Otherwise, just
+
 4. Run:
 
 ```bash
